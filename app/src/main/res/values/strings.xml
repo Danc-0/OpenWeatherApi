@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenWeatherApi</string>
+    <string name="temp">50<small><sup>2</sup></small></string>
+</resources>
