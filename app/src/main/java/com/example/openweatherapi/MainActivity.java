@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        // Creating Queue object and Initializing it
         RequestQueue queue = Volley.newRequestQueue(this);
         queue.add(jsonObjectRequest);
     }
